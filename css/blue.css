@@ -329,59 +329,6 @@ ul.info li {
 	margin-top:12px;
 }
 
-ul.skills {
-	margin:0;
-	padding:0;
-	float:right;
-	width:600px;
-	margin-left:40px;
-	margin-top:-6px;
-	list-style-type: none;
-	
-}
-
-ul.skills li {
-	margin:0;
-	padding:0;
-	float:left;
-	width:156px;
-	background-image:url(../images/bullet.gif);
-	background-repeat: no-repeat;
-	padding-left:10px;
-	background-position: 0 .5em;
-	margin-top:6px;
-}
-
-ul.works {
-	margin:0;
-	padding:0;
-	float:right;
-	width:600px;
-	margin-left:40px;
-	list-style-type: none;
-}
-
-ul.works li {
-	margin:0;
-	padding:0;
-	float:left;
-}
-
-ul.works li img {
-	padding:4px;
-	background-color:#fff;
-	width:95px;
-	height:95px;
-	border:1px solid #bdc7da;
-	margin-right:20px;
-	margin-bottom:16px;
-}
-
-ul.works li img:hover {
-	border:1px solid #1b4491;
-	cursor: pointer;
-}
-
 img.portrait {
 	width:160px;
 	height:160px;
