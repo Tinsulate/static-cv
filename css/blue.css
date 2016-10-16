@@ -19,6 +19,10 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	font-family: inherit;
 	vertical-align: baseline;
 }
+
+p {
+	padding-bottom: 1em;
+}
 :focus {
 	outline: 0;
 }
@@ -148,12 +152,20 @@ a:hover {
 /* ----------------------------------------- */
 
 .entry {
-	width:720px;
-	display: block;
-	padding-top:55px;
-	clear: both;
-	margin-left:4px;
-}
+ 	width:720px;
+ 	display: block;
+ 	padding-top:55px;
+ 	clear: both;
+ 	margin-left:4px;
+ }
+
+ .entry-first {
+ 	width:720px;
+ 	display: block;
+ 	padding-top:0px;
+ 	clear: both;
+ 	margin-left:4px;
+ }
 
 h1  {
 	width:250px;
@@ -186,7 +198,8 @@ h2 {
 p {
 	width:600px;
 	margin-left:40px;
-	float:right;	
+	float:right;
+	padding-bottom:1em;
 }
 
 p img {
