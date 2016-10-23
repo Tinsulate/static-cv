@@ -114,7 +114,6 @@ a:hover {
  }
 
 .entry-first {
-
  padding-top:0px;
 
 }
@@ -141,10 +140,31 @@ h2 {
 	margin-left:50pt;
 }
 
+h4 {
+	width:500px;
+	text-align: left;
+	float:left;
+	padding:0;
+	clear:both;
+	font-size: 14px;
+	color:#7b90b5;
+	margin-left:60pt;
+}
+
+h5 {
+	width:180px;
+	text-align: right;
+	float:left;
+	padding:0;
+	clear:both;
+	font-size: 10px;
+	color:#7b90b5;
+}
+
 p {
 	width:600px;
-	margin-left:40px;
-	float:right;
+	margin-left:90pt;
+	float:left;
 	padding-bottom:1em;
 }
 
@@ -170,39 +190,10 @@ h3 {
 	//text-align: right;
 	//float:left;
 	margin-left:60pt;
-	padding:2pt;
+	margin-top:5pt;
+	margin-bottom:3pt;
 	clear:both;
 	font-size: 13px;
-	color:#7b90b5;
-}
-
-h4 {
-	width:180px;
-	text-align: right;
-	float:left;
-	padding:0;
-	clear:both;
-	font-size: 11px;
-	color:#7b90b5;
-}
-
-h5 {
-	width:180px;
-	text-align: right;
-	float:left;
-	padding:0;
-	clear:both;
-	font-size: 10px;
-	color:#7b90b5;
-}
-
-h6 {
-	width:180px;
-	text-align: right;
-	float:left;
-	padding:0;
-	clear:both;
-	font-size: 9px;
 	color:#7b90b5;
 }
 
@@ -216,40 +207,10 @@ em {
 }
 
 
-ol {
-	float:right;
-	width:600px;
-	margin-left:40px;
-	list-style: decimal;
-	
-}
-
-
-dl {
-	float:right;
-	width:600px;
-	margin-left:40px;
-	
-}
-
-dt {
-	float:left;
-	display: block;
-	width:600px;
-		color:#7b90b5;
-}
-
-dd {
-	float:left;
-	display: block;
-	width:480px;
-	text-indent:20px;
-}
-
 ul.info {
 	float:right;
 	width:600px;
-	margin-left:40px;
+	margin-left:20pt;
 	list-style-type: none; 
 }
 

@@ -56,7 +56,7 @@ h2 {
 }
 
 p {
-	margin-left:0px;
+	margin-left:90pt;
 }
 
 
@@ -100,38 +100,6 @@ img.portrait {
 	 display: none !important;
 	 width:0px;
 }
-
-
-/*
-.self {
-	width:250px;
-	float:left;
-	padding-top:11px;
-	margin-left:70pt;
-	margin-bottom:15px;
-	clear:both;
-
-}
-
-.self h1{
-	float:left;
-	margin-left:65pt;
-	clear:both;
-}
-
-.self ul {
-	//float:center;
-	padding-top: 10px;
-}
-
-.self ul li {
-	background-repeat: no-repeat;
-	//padding-left:95pt;
-	background-position: 0.1em;
-	height:25px;
-	display:block;
-	margin-top:-2px;
-}*/
 
 
 .self {
